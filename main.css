@@ -1,0 +1,25 @@
+/*
+Megan Yan
+Intro CS pd07 sec 11
+HW 05: Stuylin'
+2021--02--25
+*/
+
+html {
+    background-color: #131f33 ;
+    /* for the entire background color therefore inside html tag*/
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 60px;
+    font-style: oblique;   
+}
+    /* this controls " Basic Intro to Friendship Bracelet Making" */
+
+h1 {
+    border-style: dashed solid;
+    border-color: #4d7bd1;
+    border-width: thin
+}
+/* this adds the border around " Basic Intro to Friendship Bracelet Making" */
